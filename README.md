@@ -23,6 +23,9 @@ Note: This project is a work in progress and may have incomplete features. Given
 - **Health Bar**: Displays the health of both the enemy and the player.
 - **Pause Menu**: Allows players to pause the game.
 
+## Demonstration
+Check out a video demonstration of the game [here](https://drive.google.com/file/d/1XTy4hEz1hSDZGj38wtr8S0nIok5pz6k0/view?usp=sharing).
+
 ## Contributors
 - Anas: Implemented the combat mechanics, multiplayer functionality, and UI elements.
 
