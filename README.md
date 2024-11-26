@@ -12,8 +12,8 @@ To install and set up **Warriors' Clash**:
 
 ## Usage
 Interact with the game by using the following controls:
-- **Attack**: Use the designated attack button to strike enemies.
-- **Block**: Use the block button to defend against enemy attacks.
+- **Attack**: Use the left mouse button to strike enemies.
+- **Block**: Use the right mouse button to defend against enemy attacks.
 
 Note: This project is a work in progress and may have incomplete features. Given more time, the game can be fully developed with additional functionalities.
 
