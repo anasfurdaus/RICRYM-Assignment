@@ -1,4 +1,3 @@
-# RICRYM-Assignment
 # Warriors' Clash
 
 ## Description
