@@ -40,7 +40,7 @@ Note: This project is a work in progress and may have incomplete features. Given
 ---
 
 ## Demonstration  
-Check out a video demonstration of the game [here](https://drive.google.com/file/d/15Vwe3TdNMJWXG56I6RzOtV-bN8q3rg8c/view?usp=sharing).  
+Check out a video demonstration of the game [here](https://youtu.be/VAv0nIvJGwU).  
 
 ---
 
