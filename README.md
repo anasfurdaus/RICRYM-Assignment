@@ -23,7 +23,7 @@ Note: This project is a work in progress and may have incomplete features. Given
 - **Pause Menu**: Allows players to pause the game.
 
 ## Demonstration
-Check out a video demonstration of the game [here](https://drive.google.com/file/d/1XTy4hEz1hSDZGj38wtr8S0nIok5pz6k0/view?usp=sharing).
+Check out a video demonstration of the game [here](https://drive.google.com/file/d/15Vwe3TdNMJWXG56I6RzOtV-bN8q3rg8c/view?usp=sharing).
 
 ## Contributors
 - Anas: Implemented the combat mechanics, multiplayer functionality, and UI elements.
